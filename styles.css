@@ -237,6 +237,10 @@ h4 {
     justify-content: center;
     gap: 1em;
 }
+.watchbtn a {
+    text-decoration: none;
+    color: white;
+}
 .watchbtn:hover {
     transform: scale(1.03);
     cursor: pointer;

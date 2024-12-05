@@ -239,6 +239,9 @@ h4 {
 }
 .watchbtn a {
     text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     color: white;
 }
 .watchbtn:hover {

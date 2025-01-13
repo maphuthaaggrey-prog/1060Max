@@ -35,7 +35,7 @@ img:hover {
  transform: scale(1.03);
 }
 :root {
-    --tertiary: #b11c1c;
+    --tertiary: #df1233;
 }
 .hero {
     background-size: cover;
